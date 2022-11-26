@@ -1,0 +1,19 @@
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Createnew.resources
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Game.resources
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Login.resources
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Guest.resources
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\Chathura\documents\visual studio 2015\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+C:\Users\Chathura\Desktop\Game\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\Chathura\Desktop\Game\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\Chathura\Desktop\Game\SudokuGame\obj\Debug\SudokuGame.pdb
